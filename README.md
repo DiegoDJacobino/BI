@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	Desafio Instagram - Concluído 🚀
+	Desafio Adventure Works - Concluído 🚀
 </h1>
 
 <p align="center">
@@ -11,10 +11,10 @@
 
 ## 💻 Sobre o projeto
 
-O Desafio Instagram - Foi um desafio proposto pelo professor *Rodrigo Rahman*. Essa versão do aplicativo é simplificada comparada com a versão real do aplicativo oficial. Este desafio serviu para praticar o que aprendemos sobre alguns widgets, a construção de layouts e boas práticas de programação.
+O Desafio Adventure Works - Foi um desafio criado para desenvolver as habilidades em SQL, ETL e Power Bi.
 
 
-O Projeto foi desenvolvido dentro da *Academia do Flutter*.
+O Projeto foi desenvolvido dentro da base de dados *Adventure Works*.
 
 ---
 
@@ -22,21 +22,11 @@ O Projeto foi desenvolvido dentro da *Academia do Flutter*.
 
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina a ferramenta do Git:
-https://git-scm.com. 
-Além disto é bom ter um editor para trabalhar com o código como https://code.visualstudio.com/.
+Antes de começar, você vai precisar ter instalado em sua máquina a ferramenta Power BI:
+https://powerbi.microsoft.com/pt-br/downloads/. 
+
 
 bash
-
-# Clone este repositório
-$ git clone git@github.com:caioguge/Desafio-Instagram.git
-
-# Vá para a raiz do projeto e execute o seguinte comando no console para obter as dependências necessárias
-$ flutter pub get
-
-# Execute a aplicação com o comando
-$ flutter run
-
 
 ---
 
@@ -44,15 +34,14 @@ $ flutter run
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
--   *[Flutter](https://docs.flutter.dev/get-started/install)*
--   *[Dart](https://dart.dev/)*
+-   *[SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)*
+-   *[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)*
+-   *[Banco de Dados "Adventure Works"](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)*
 
 ---
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
-
-Feito por Caio Gugê 👋 https://www.linkedin.com/in/caioguge/
+Feito por Diego Dias Jacobino 👋 https://www.linkedin.com/in/diegojacobino
 
 ---
