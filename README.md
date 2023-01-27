@@ -26,8 +26,6 @@ Antes de começar, você vai precisar ter instalado em sua máquina a ferramenta
 https://powerbi.microsoft.com/pt-br/downloads/. 
 
 
-bash
-
 ---
 
 ## 🛠 Tecnologias
